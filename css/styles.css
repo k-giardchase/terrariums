@@ -1,7 +1,8 @@
 .introphoto {
-  background-image: url('../img/old_truck.jpg'),
-  linear-gradient(#d3d3d3, transparent 90%),
-              linear-gradient(0deg, #778899, transparent);
+  background:
+              linear-gradient(#d3d3d3, transparent 100%),
+
+              url('../img/old_truck.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
@@ -15,4 +16,53 @@
 
 body {
   background: #000 !important;
+}
+
+/*
+**************************************
+LIGHTBOX
+**************************************
+*/
+
+#lightbox {
+  margin: 0;
+  padding: 0;
+}
+
+#img1 {
+  background: url('http://365hangers.com/wp-content/uploads/2014/04/diy-succulent-terrarium.jpg');
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  margin-right: 25px;
+  margin-left: 50px;
+  margin-bottom: 25px;
+}
+
+#img2 {
+  background: url('http://blog.westelm.com/wp-content/uploads/2012/04/img30o.jpg');
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+#img3 {
+  background: url('http://blog.westelm.com/wp-content/uploads/2012/04/img30o.jpg');
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+#img4 {
+  background: url('http://blog.westelm.com/wp-content/uploads/2012/04/img30o.jpg');
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  margin-right: 25px;
+  margin-bottom: 25px;
+
 }
