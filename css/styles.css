@@ -24,45 +24,10 @@ LIGHTBOX
 **************************************
 */
 
-#lightbox {
-  margin: 0;
-  padding: 0;
-}
 
-#img1 {
+.terrarium-img {
   background: url('http://365hangers.com/wp-content/uploads/2014/04/diy-succulent-terrarium.jpg');
-  height: 200px;
-  width: 200px;
   background-size: cover;
-  margin-right: 25px;
-  margin-left: 50px;
-  margin-bottom: 25px;
-}
-
-#img2 {
-  background: url('http://blog.westelm.com/wp-content/uploads/2012/04/img30o.jpg');
-  height: 200px;
-  width: 200px;
-  background-size: cover;
-  margin-right: 25px;
-  margin-bottom: 25px;
-}
-
-#img3 {
-  background: url('http://blog.westelm.com/wp-content/uploads/2012/04/img30o.jpg');
-  height: 200px;
-  width: 200px;
-  background-size: cover;
-  margin-right: 25px;
-  margin-bottom: 25px;
-}
-
-#img4 {
-  background: url('http://blog.westelm.com/wp-content/uploads/2012/04/img30o.jpg');
-  height: 200px;
-  width: 200px;
-  background-size: cover;
-  margin-right: 25px;
-  margin-bottom: 25px;
-
+  height: 250px;
+  width: 250px;
 }
