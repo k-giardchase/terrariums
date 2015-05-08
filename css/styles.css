@@ -25,8 +25,29 @@ LIGHTBOX
 */
 
 
-.terrarium-img {
+#terrarium-img1 {
   background: url('http://365hangers.com/wp-content/uploads/2014/04/diy-succulent-terrarium.jpg');
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+}
+
+#terrarium-img2 {
+  background: url('http://topcarl.com/images/Tea-Pot.jpg');
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+}
+
+#terrarium-img3 {
+  background: url('http://www.550arts.com/wp-content/plugins/wp-easycart-data/products/pics1/Succulent-Terrarium-1_ad4f2ff0f6598d3481b8095a08641d6c.jpg');
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+}
+
+#terrarium-img4 {
+  background: url('http://forums.ronenbekerman.com/attachment.php?attachmentid=13221&d=1360579594');
   background-size: cover;
   height: 250px;
   width: 250px;
